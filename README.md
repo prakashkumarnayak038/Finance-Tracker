@@ -1,4 +1,4 @@
-# 🌊 WalletWave — Personal Finance Tracker
+#  WalletWave — Personal Finance Tracker
 
 WalletWave is a modern and responsive Personal Finance Tracker built using HTML, CSS, and JavaScript.
 
@@ -71,4 +71,4 @@ WalletWave/
 - Interactive Data Visualization
 
 
-Live link-
+Live link - https://prakashkumarnayak038.github.io/Finance-Tracker/
